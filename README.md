@@ -9,10 +9,11 @@ Hi, I am Ayesha Riaz, a BS Data Science student at the University of Engineering
 |-----------|---------------------------------|
 | Languages | Python, C# (OOP), HTML, CSS     |
 | Interests | Machine Learning, Deep Learning |
-| Tools     | Git, GitHub, VS Code            |
+| Tools     | Git, GitHub, VS Code  
+Currently learning Git and GitHub.          |
 
 ## Featured Projects
-
+Get-Content (Get-PSReadlineOption).HistorySavePath | Select-String "clone|init|remote add"
 ### Hospital Management System
 A system to manage hospital operations such as patients, doctors and records.
 
